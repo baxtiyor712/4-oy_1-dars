@@ -1,0 +1,3 @@
+function salom(arr) {
+    this
+}
